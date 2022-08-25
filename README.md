@@ -42,7 +42,7 @@ This is a short list of the tasks you need to implement:
   * Save account
   * Add form validation to validate the that Firstname and lastname are entered and amount greater than 0
 
-=====================================================================================================
+<hr />
  
 # C# REST API
 The code contains REST Api project in Visual Studio solution using .net core 3.1. 
