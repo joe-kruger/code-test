@@ -41,6 +41,7 @@ This is a short list of the tasks you need to implement:
 * new-account.component
   * Save account
   * Add form validation to validate the that Firstname and lastname are entered and amount greater than 0
+  * reactive forms should be used to handle form elements and validation
 
 <hr />
  
